@@ -1,3 +1,120 @@
-body{
-    font-family: ;
+body {
+  font-family: "Roboto", "Raleway", sans-serif;
+  background-color: #ffffff;
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  line-height: 1.333;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+  text-decoration: none;
+}
+.logo-design {
+  color: #4d5ae5;
+}
+.nav-list,
+li {
+  list-style-type: none;
+}
+.nav-links {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-decoration: none;
+}
+.nav-links:hover,
+.nav-links:focus {
+  color: #404bbf;
+}
+.contacts-list {
+  list-style-type: none;
+}
+.contacts-links {
+  font-size: 16px;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  text-decoration: none;
+}
+.contacts-links:hover,
+.contacts-links:focus {
+  color: #404bbf;
+}
+.order {
+  background-color: #2e2f42;
+}
+.order-title {
+  width: 496px;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #ffffff;
+}
+.order-button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  border-radius: 4px;
+  width: 169px;
+  height: 56px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background-color: #4d5ae5;
+}
+.order-button:hover,
+.order-button:focus {
+  background-color: #404bbf;
+  cursor: pointer;
+}
+.about-title {
+  visibility: hidden;
+}
+.about-list {
+  list-style-type: none;
+}
+.about-name,
+.team-name,
+.portfolio-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.about-text,
+.team-text,
+.portfolio-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.team-title,
+.portfolio-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+.team-name {
+  text-align: center;
+}
+.footer {
+  background-color: #2e2f42;
+}
+.footer-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }

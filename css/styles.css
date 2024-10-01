@@ -123,6 +123,9 @@ li {
 .footer {
   background-color: #2e2f42;
 }
+.footer-logo-design {
+  color: #f4f4fd;
+}
 .footer-text {
   font-size: 16px;
   line-height: 1.5;
